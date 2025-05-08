@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c0/e1/5f/c0e15fc5b0a8751878fb7ccf17c4fa89.jpg" alt="header image" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg2dzAxcWRmaTczZWxucGRrNHh1bWVrMXl3dnQ1MDdsY3B6bTA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Efe Eftekin</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
